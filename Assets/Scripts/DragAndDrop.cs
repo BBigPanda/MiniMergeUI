@@ -32,7 +32,7 @@ public class DragAndDrop : MonoBehaviour
             OnMouseUp();
         }
 
-        if (_isDragging)
+        if (_isDragging && _mergeItem != null)
         {
             _mergeItem.RectTransform.localPosition = Input.mousePosition + _offset;
         }
@@ -52,6 +52,11 @@ public class DragAndDrop : MonoBehaviour
                 
                 hit.collider.gameObject.GetComponent<Container>()?.AddItem(_mergeItem);
             }
+           
+        }
+        else
+        {
+            _mergeItem.RectTransform.DOLocalMove(_startPosition, 0.2f).SetEase(Ease.OutBack).OnComplete(() => {  }); 
         }
     }
 
@@ -69,9 +74,9 @@ public class DragAndDrop : MonoBehaviour
     private void OnMouseUp()
     {
         CheckCastObject();
-        _moveable = false;
         _isDragging = false;
         _mergeItem.Break();
-        _mergeItem.RectTransform.DOLocalMove(_startPosition, 0.2f).SetEase(Ease.OutBack).OnComplete(() => { _moveable = true; });
+        _moveable = true;
+        // 
     }
 }

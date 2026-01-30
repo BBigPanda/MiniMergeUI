@@ -628,6 +628,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Container
   _rectTransform: {fileID: 1333590010}
+  _verticalLayoutGroup: {fileID: 1333590013}
 --- !u!1 &1455086232
 GameObject:
   m_ObjectHideFlags: 0
@@ -984,6 +985,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Container
   _rectTransform: {fileID: 1624195539}
+  _verticalLayoutGroup: {fileID: 1624195542}
 --- !u!1 &1665444318
 GameObject:
   m_ObjectHideFlags: 0
@@ -1271,6 +1273,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Container
   _rectTransform: {fileID: 1979593368}
+  _verticalLayoutGroup: {fileID: 1979593371}
 --- !u!222 &1082009422797989434
 CanvasRenderer:
   m_ObjectHideFlags: 0
