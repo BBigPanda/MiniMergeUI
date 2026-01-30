@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb5e15d71e044121a9ee7a08ac9fdf67, type: 3}
+  m_Name: ItemsConfig
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.ItemsConfig
+  _items:
+  - Index: 0
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    Sprite: {fileID: -1355460560, guid: a5b2571c03ae29444a6443f6fa4a1acb, type: 3}
+  - Index: 1
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    Sprite: {fileID: -1822222532, guid: a5b2571c03ae29444a6443f6fa4a1acb, type: 3}
+  - Index: 2
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    Sprite: {fileID: 250834091, guid: a5b2571c03ae29444a6443f6fa4a1acb, type: 3}
+  - Index: 3
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    Sprite: {fileID: 837265360, guid: a5b2571c03ae29444a6443f6fa4a1acb, type: 3}
+  - Index: 4
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    Sprite: {fileID: 381731053, guid: a5b2571c03ae29444a6443f6fa4a1acb, type: 3}
+  - Index: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    Sprite: {fileID: 29162867, guid: a5b2571c03ae29444a6443f6fa4a1acb, type: 3}

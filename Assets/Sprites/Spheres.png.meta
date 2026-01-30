@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: a5b2571c03ae29444a6443f6fa4a1acb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3038340966536128838
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_0
+  - first:
+      213: 4530392047120141888
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_1
+  - first:
+      213: 4989635854676152507
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_2
+  - first:
+      213: 6581380995802932618
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_3
+  - first:
+      213: -3361078920719621659
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_4
+  - first:
+      213: -6151754134132419565
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_5
+  - first:
+      213: 371622277892535070
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_6
+  - first:
+      213: -7298063233983600652
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_7
+  - first:
+      213: 2300978208073849566
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_8
+  - first:
+      213: -5117646098287619520
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_9
+  - first:
+      213: 4640448699950068090
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_10
+  - first:
+      213: -8552129833557838664
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_11
+  - first:
+      213: -3244219849595126540
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_12
+  - first:
+      213: -7093594797649967645
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_13
+  - first:
+      213: -8068097747210364295
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_14
+  - first:
+      213: -7063085010185425592
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_15
+  - first:
+      213: 2362238836344848056
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_16
+  - first:
+      213: -7148422005108702396
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_17
+  - first:
+      213: -1431199545570175633
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_18
+  - first:
+      213: -6495413078669373972
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_19
+  - first:
+      213: 6679638463145034646
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_20
+  - first:
+      213: -5763015308977207722
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_21
+  - first:
+      213: 4238522304941761400
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_22
+  - first:
+      213: 3192934250658136304
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_23
+  - first:
+      213: 8599772302447249619
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_24
+  - first:
+      213: 6349382033349323098
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_25
+  - first:
+      213: 1065171569366582489
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_26
+  - first:
+      213: 8344589264758927891
+    second: ChatGPT Image Jan 30, 2026, 10_00_52 AM_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spheres_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 784
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca393c0fa74388947aa58aa252c71382
+      internalID: -1355460560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 784
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21aaa6280ab05e43923dadc779814ba
+      internalID: -1822222532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 784
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b54911d467f98f4086a0ad30418fbdf
+      internalID: 250834091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_3
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 784
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f642276e6ac90047ae2352581846a27
+      internalID: 837265360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 784
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f18ca893bea7a4183c0760aa054813
+      internalID: 381731053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_5
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 784
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c044ebfa920adbe468367f6683b05a8a
+      internalID: 29162867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 570
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d93f082a199e74aa72851140942bfc
+      internalID: 1177065384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 570
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef40c7390e28246b087c6c1c8f3b84
+      internalID: 759198913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 570
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d164c2eb5eb34cbbd9f7baea80d07
+      internalID: 800827637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 570
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973e1913c39f654d8435a691874ed4f
+      internalID: 1625987832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_10
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 570
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a39ca6a266bf746959ada99deef638
+      internalID: -1939829532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_11
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 570
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aee82d8af96e64a80b9db3ddad965f
+      internalID: 362419033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 356
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea972e09d73c8f42970a8247a324fa6
+      internalID: 1724228450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 356
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e33d2ba46cf8494a82fc7e276a61b1e
+      internalID: -1909863192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 356
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a209a0b9401030429440b6e4d61800e
+      internalID: 1776823303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_15
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 356
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35191ff7120eb81409617075093079a5
+      internalID: 763675430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 356
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488feea0cbb240b448576e72f1c3ec41
+      internalID: 1333666787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_17
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 356
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc99482edcf3ed44bf5b9d3499ca30f
+      internalID: -1841308587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 142
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e358ec9cfebf97d45b97d281b06a2d71
+      internalID: 1739216395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 142
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ee31eeaeec8d44b79740c8021d254
+      internalID: -1943963028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 142
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e5d6a1977db04c93017a0285ea682
+      internalID: 1159283868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 142
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ef8b49ee16af40b588d2e37054ea5
+      internalID: -1496600297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 142
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f4e6af2ea78ae42b093f3c975d2832
+      internalID: 1925522686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spheres_23
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 142
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d846b6efbcdbb04f8fd8c68c6faba5c
+      internalID: -1499921380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aaa92132ab57d434d954e9bccc6c697c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":210.0,"y":210.0},"gridSpriteOffset":{"x":78.0,"y":30.0},"gridSpritePadding":{"x":10.0,"y":4.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Spheres_0: -1355460560
+      Spheres_1: -1822222532
+      Spheres_10: -1939829532
+      Spheres_11: 362419033
+      Spheres_12: 1724228450
+      Spheres_13: -1909863192
+      Spheres_14: 1776823303
+      Spheres_15: 763675430
+      Spheres_16: 1333666787
+      Spheres_17: -1841308587
+      Spheres_18: 1739216395
+      Spheres_19: -1943963028
+      Spheres_2: 250834091
+      Spheres_20: 1159283868
+      Spheres_21: -1496600297
+      Spheres_22: 1925522686
+      Spheres_23: -1499921380
+      Spheres_3: 837265360
+      Spheres_4: 381731053
+      Spheres_5: 29162867
+      Spheres_6: 1177065384
+      Spheres_7: 759198913
+      Spheres_8: 800827637
+      Spheres_9: 1625987832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
